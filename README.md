@@ -15,4 +15,4 @@ Outputs include publication-ready plots (PNG/SVG) and processed tables.
 R packages: `ggplot2`, `dplyr`, `stringr`, `ggrepel`, `writexl`, `scales`.
 
 ## Author
-Oktay
+Oktay CAKIL
